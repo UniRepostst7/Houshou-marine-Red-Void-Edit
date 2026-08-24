@@ -1,6 +1,6 @@
 {
-  "name": "Test Marine",
-  "description": "AMOLED Rem theme",
+  "name": "WE LOVE HOUSHOU MARINE",
+  "description": "Houshou Marine",
   "authors": [
     {
       "name": "donkwi",
@@ -12,13 +12,13 @@
       "#b42121"
     ],
     "BACKGROUND_ACCENT": [
-      "#FFD700"
+      "#D4AF37"
     ],
     "BACKGROUND_SECONDARY": [
       "#b42121"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#FFD700"
+      "#D4AF37"
     ],
     "DIVIDER_STRONG": [
       "#b42121"
@@ -33,10 +33,10 @@
       "#b42121"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#FFD700"
+      "#D4AF37"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
-      "#FFD700"
+      "#D4AF37"
     ],
     "STAGE_CARD_PILL_BG": [
       "#b42121"
@@ -168,7 +168,7 @@
       "#36393E"
     ],
     "INTERACTIVE_MUTED": [
-      "#FFD700"
+      "#D4AF37"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
       "#b42121"
@@ -185,7 +185,7 @@
     "BRAND_260": "#FFFFFF",
     "BRAND_360": "#FFFFFF",
     "BRAND_560": "#b42121",
-    "BRAND_500": "#FFD700",
+    "BRAND_500": "#D4AF37",
     "ORANGE_260": "#FFFFFF",
     "ORANGE_300": "#FFFFFF",
     "ORANGE_330": "#FFFFFF",
@@ -226,7 +226,7 @@
     "PRIMARY_560": "#b42121",
     "PRIMARY_600": "#b42121",
     "PRIMARY_630": "#b42121",
-    "PLUM_15": "#FFD700",
+    "PLUM_15": "#D4AF37",
     "PLUM_17": "#b42121",
     "PLUM_18": "#b42121",
     "PLUM_19": "#b42121",
@@ -237,7 +237,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/UniRepostst7/Houshou-marine-Red-Void-Edit/main/Houshoujpg.jpg",
     "blur": 0.5,
-    "alpha": 0.36,
+    "alpha": 0.25,
     "size": "cover",
     "position": "center"
   },
