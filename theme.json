@@ -46,11 +46,11 @@
       "#1c96ac"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#050505",
+      "#FFD700",
       "#1c96ac"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#080808",
+      "#ff5100",
       "#1c96ac"
     ],
     "BACKGROUND_NESTED_FLOATING": [
@@ -58,11 +58,11 @@
       "#1c96ac"
     ],
     "BACKGROUND_PRIMARY": [
-      "#050505",
+      "#ff5100",
       "#1c96ac"
     ],
     "BACKGROUND_SECONDARY": [
-      "#080808",
+      "#FFD700",
       "#1c96ac"
     ],
     "BACKGROUND_SECONDARY_ALT": [
@@ -375,7 +375,7 @@
   },
   "background": {
     "blur": 0.0,
-    "url": "https://raw.githubusercontent.com/UniRepostst7/Houshou-marine-Red-Void-Edit/main/Houshoujpg.jpg"
+    "url": "https://raw.githubusercontent.com/UniRepostst7/Houshou-marine-Red-Void-Edit/main/Houshoujpg.jpg",
     "alpha": 0.5
   },
   "plus": {
