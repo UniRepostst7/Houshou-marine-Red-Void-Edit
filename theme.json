@@ -237,7 +237,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/UniRepostst7/Houshou-marine-Red-Void-Edit/main/Houshoujpg.jpg",
     "blur": 0.5,
-    "alpha": 0.25,
+    "alpha": 0.55,
     "size": "cover",
     "position": "center"
   },
