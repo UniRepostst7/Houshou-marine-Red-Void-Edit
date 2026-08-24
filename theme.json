@@ -375,13 +375,14 @@
   "background": {
     "blur": 0.0,
     "url": "https://raw.githubusercontent.com/UniRepostst7/Houshou-marine-Red-Void-Edit/main/Houshoujpg.jpg"
+    "alpha": 0.5
   },
   "plus": {
     "version": "0",
     "mentionLineColor": "#ff3333",
     "customOverlays": true,
     "icons": {
-      "StatusOnline": "#ff3333",
+      "StatusOnline": "#33ff3d",
       "StatusIdle": "#ffaa00",
       "StatusDND": "#ff4444",
       "StatusOffline": "#444444",
