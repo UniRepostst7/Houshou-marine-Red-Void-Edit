@@ -98,6 +98,9 @@
     "TEXT_LOW_CONTRAST": [
       "#FFFFFF"
     ],
+    "TEXT_STRONG": [
+      "#D4AF37"
+    ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
       "#FFFFFF"
     ],
@@ -237,7 +240,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/UniRepostst7/Houshou-marine-Red-Void-Edit/main/Houshoujpg.jpg",
     "blur": 0.5,
-    "alpha": 0.25,
+    "alpha": 0.5,
     "size": "cover",
     "position": "center"
   },
@@ -249,4 +252,3 @@
   "createdAt": "2025-10-05",
   "source": "local"
 }
-
