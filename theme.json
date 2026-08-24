@@ -114,8 +114,9 @@
       "#1c96ac"
     ],
     "CHAT_BACKGROUND": [
-      "#ef39ff",
-      "#1c96ac"
+      "transparent",
+      "transparent",
+      "transparent"
     ],
     "EMBED_BACKGROUND": [
       "#080808",
