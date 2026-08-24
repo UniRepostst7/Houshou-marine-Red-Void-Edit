@@ -17,8 +17,20 @@
     "BACKGROUND_SECONDARY": [
       "#b42121"
     ],
+        "BG_SURFACE_OVERLAY_TMP": [
+      "#b8ad89"
+    ],
+        "BACKGROUND_SURFACE_HIGH": [
+      "#b8ad89"
+    ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#D4AF37"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#b8ad89"
+    ],
+    "BACKGROUND_MOD_STRONG": [
+      "#b8ad89"
     ],
     "DIVIDER_STRONG": [
       "#b42121"
@@ -27,7 +39,7 @@
       "#b42121"
     ],
     "BORDER_SUBTLE": [
-      "#b42121"
+      "#D4AF37"
     ],
     "SPINE_DEFAULT": [
       "#b42121"
